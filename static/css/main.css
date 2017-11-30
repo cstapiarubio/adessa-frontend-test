@@ -1,1 +1,27 @@
 /* you can add any styles you think could improve user's experience */
+*{
+	font-family: 'Roboto', sans-serif;
+	background-color: #D2F6E8;
+	margin: 0;
+	padding: 0;
+}
+
+h1{
+	text-align: center;
+}
+
+img{
+	width: 200px;
+}
+
+button{
+	background-color: #19D976;
+	width: 100px;
+	border-radius: 6px;
+	align-items: center;
+}
+
+button:hover{
+	background-color: #4FA8DC;
+}
+
